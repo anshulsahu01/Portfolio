@@ -3,6 +3,12 @@
 
 This is a personal portfolio website built with HTML, CSS, JavaScript, and Bootstrap. The purpose of this project is to showcase my skills, projects, and achievements.
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anshulsahu01.github.io/Portfolio/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-sahu-4a0214200/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anshulxsahu/)
 
 ## Screenshots
 
